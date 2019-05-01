@@ -4146,6 +4146,15 @@
         </countries>
         <countries>
             <active>true</active>
+            <integrationValue>Test Territory</integrationValue>
+            <isoCode>TEST</isoCode>
+            <label>Test Territory</label>
+            <orgDefault>false</orgDefault>
+            <standard>false</standard>
+            <visible>false</visible>
+        </countries>
+        <countries>
+            <active>true</active>
             <integrationValue>French Southern Territories</integrationValue>
             <isoCode>TF</isoCode>
             <label>French Southern Territories</label>
