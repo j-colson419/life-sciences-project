@@ -10,3 +10,13 @@ package.xml
 
 # LWC Jest
 **/__tests__/**
+
+# Territory Management Related Files
+force-app\main\default\territory2Models
+force-app\main\default\territory2Types
+**territory2Models
+**territory2Types
+force-app\main\default\settings\Territory2.settings-meta.xml
+
+# Manifest file for switching between package and source format
+manifest
