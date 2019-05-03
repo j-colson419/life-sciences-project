@@ -1,0 +1,10 @@
+{
+    "orgName": "Life Sciences Company",
+    "edition": "Developer",
+    "features": ["StateAndCountryPicklist", "ProcessBuilder", "ServiceCloud"],
+    "settings": {
+      "orgPreferenceSettings": {
+        "s1DesktopEnabled": true
+      }
+    }
+  }
